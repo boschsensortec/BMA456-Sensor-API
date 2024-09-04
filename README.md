@@ -9,22 +9,22 @@ The BMA456 is an ultra-small, triaxial, low-g acceleration sensor with digital i
 ## Applications
 
 Available variants:
-- BMA456W
-- BMA456H
-- BMA456MM
+- BMA456W for wearables
+- BMA456H for hearables
+- BMA456MM for mass market
 - BMA456AN
 - BMA456 tablet
 
-| Variant            |  W  |   H   |   MM  | AN | tablet |
-|--------------------|:---:|:-----:|:-----:|:--:|:------:|
-| Auto low power     |     |   ✓   |   ✓   |    |        |
-| Any motion         |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
-| No motion          |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
-| Step detector      |  ✓  |   ✓   |       |    |        |
-| Step counter       |  ✓  |   ✓   |       |    |        |
-| Step activity      |  ✓  |   ✓   |       |    |        |
-| Tap detection      | 1,2 | 1,2,3 | 1,2,3 |    |  1,2,3 |
-| Orientation        |     |       |   ✓   |    |    ✓   |
-| High-g             |     |       |   ✓   |    |        |
-| Low-g              |     |       |   ✓   |    |    ✓   |
-| Significant motion |     |       |   ✓   |    |        |
+| Variant                                   |  W  |   H   |   MM  | AN | tablet |
+|-------------------------------------------|:---:|:-----:|:-----:|:--:|:------:|
+| Auto low power                            |     |   ✓   |   ✓   |    |        |
+| Any motion                                |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
+| No motion                                 |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
+| Step detector                             |  ✓  |   ✓   |       |    |        |
+| Step counter                              |  ✓  |   ✓   |       |    |        |
+| Step activity                             |  ✓  |   ✓   |       |    |        |
+| Tap detection<br>(single, double, triple) | 1,2 | 1,2,3 | 1,2,3 |    |  1,2,3 |
+| Orientation                               |     |       |   ✓   |    |    ✓   |
+| High-g                                    |     |       |   ✓   |    |        |
+| Low-g                                     |     |       |   ✓   |    |    ✓   |
+| Significant motion                        |     |       |   ✓   |    |        |
