@@ -15,16 +15,17 @@ Available variants:
 - BMA456AN
 - BMA456 tablet
 
-| Variant                                   |  W  |   H   |   MM  | AN | tablet |
-|-------------------------------------------|:---:|:-----:|:-----:|:--:|:------:|
-| Auto low power                            |     |   ✓   |   ✓   |    |        |
-| Any motion                                |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
-| No motion                                 |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
-| Step detector                             |  ✓  |   ✓   |       |    |        |
-| Step counter                              |  ✓  |   ✓   |       |    |        |
-| Step activity                             |  ✓  |   ✓   |       |    |        |
-| Tap detection<br>(single, double, triple) | 1,2 | 1,2,3 | 1,2,3 |    |  1,2,3 |
-| Orientation                               |     |       |   ✓   |    |    ✓   |
-| High-g                                    |     |       |   ✓   |    |        |
-| Low-g                                     |     |       |   ✓   |    |    ✓   |
-| Significant motion                        |     |       |   ✓   |    |        |
+| Variant                                   | W |   H   |   MM  | AN | tablet |
+|-------------------------------------------|:-:|:-----:|:-----:|:--:|:------:|
+| Auto low power                            |   |   ✓   |   ✓   |    |        |
+| Any motion                                | ✓ |   ✓   |   ✓   |  ✓ |    ✓   |
+| No motion                                 | ✓ |   ✓   |   ✓   |  ✓ |    ✓   |
+| Step detector                             | ✓ |   ✓   |       |    |        |
+| Step counter                              | ✓ |   ✓   |       |    |        |
+| Step activity                             | ✓ |   ✓   |       |    |        |
+| Tap detection<br>(single, double, triple) |   | 1,2,3 | 1,2,3 |    |  1,2,3 |
+| Wrist wear wakeup                         | ✓ |       |       |    |        |
+| Orientation                               |   |       |   ✓   |    |    ✓   |
+| High-g                                    |   |       |   ✓   |    |        |
+| Low-g                                     |   |       |   ✓   |    |    ✓   |
+| Significant motion                        |   |       |   ✓   |    |        |
