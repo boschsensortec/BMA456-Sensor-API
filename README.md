@@ -8,51 +8,23 @@ The BMA456 is an ultra-small, triaxial, low-g acceleration sensor with digital i
 
 ## Applications
 
-### BMA456W
-- Any motion
-- No motion 
-- Step detector
-- Step counter
-- Step activity
-- Tap
-	- Single tap
-	- Double tap
+Available variants:
+- BMA456W
+- BMA456H
+- BMA456MM
+- BMA456AN
+- BMA456 tablet
 
-### BMA456H
-
-- Any motion
-- No motion 
-- Step detector
-- Step counter
-- Step activity
-- Auto low power
-- Tap
-	- Single tap
-	- Double tap
-	- Triple tap
-
-### BMA456MM
-
-- Any motion
-- No motion 
-- Orientation
-- High-g
-- Low-g
-- Significant motion
-- Auto low power
-- Tap
-	- Single tap
-	- Double tap
-	- Triple tap
-
-### BMA456AN
-
-- Any motion
-- No motion
-
-### BMA456 tablet
-
-- Any/no motion 
-- Low-g
-- Single, double and triple tap
-- Orientation
+| Variant            |  W  |   H   |   MM  | AN | tablet |
+|--------------------|:---:|:-----:|:-----:|:--:|:------:|
+| Auto low power     |     |   ✓   |   ✓   |    |        |
+| Any motion         |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
+| No motion          |  ✓  |   ✓   |   ✓   |  ✓ |    ✓   |
+| Step detector      |  ✓  |   ✓   |       |    |        |
+| Step counter       |  ✓  |   ✓   |       |    |        |
+| Step activity      |  ✓  |   ✓   |       |    |        |
+| Tap detection      | 1,2 | 1,2,3 | 1,2,3 |    |  1,2,3 |
+| Orientation        |     |       |   ✓   |    |    ✓   |
+| High-g             |     |       |   ✓   |    |        |
+| Low-g              |     |       |   ✓   |    |    ✓   |
+| Significant motion |     |       |   ✓   |    |        |
